@@ -22,7 +22,7 @@ gem 'ed25519'
 gem 'rails'
 gem 'rb-fsevent'
 gem 'sassc-rails'
-gem 'sdoc', group: :doc
+gem 'sdoc', '>= 2.0.3', group: :doc
 gem 'sprockets'
 gem 'sprockets-rails'
 gem 'tzinfo-data'
